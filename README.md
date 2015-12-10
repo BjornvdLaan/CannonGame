@@ -5,3 +5,6 @@ Networked multiplayer game implemented with JMonkeyEngine 3.0. This repository c
   * For each player, run ClientMain to start a client. NOTE: Make sure to set the HOST constant in the NetUtils class to the ipv4 address of the server.
   * Press 'Running' on the Server Control to start the game.
   * Play the game.
+ 
+##Dependencies
+The textures used in this game are from the jME3-testdata library. You should include this library in your project or replace the textures.
